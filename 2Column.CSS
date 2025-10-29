@@ -1,0 +1,23 @@
+#container{
+    background-color: white;
+}
+
+header{
+    background-color: red;
+}
+
+nav{
+    background-color: yellow;
+}
+
+section{
+    background-color: blue;
+}
+
+passage{
+    background-color: green;
+}
+
+footer{
+    background-color: yellow;
+}
