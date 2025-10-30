@@ -1,23 +1,61 @@
+body{
+    background-color: maroon;
+}
+
+
 #container{
-    background-color: white;
+    background-color: yellow;
+    width: 970px;
+    margin: 0 auto;
 }
 
 header{
-    background-color: red;
+    background-color: maroon;
+    height: 50px;
+    width: 910px;
+    padding: 25px;
+    margin: 5px 5px 5px 5px;
+}
+H2{
+    color:yellow;
+}
+nav{
+    background-color: maroon;
+    color:yellow;
+    width: 940px;
+    padding: 10px;
+    margin: 5px 5px 5px 5px;
 }
 
-nav{
-    background-color: yellow;
+nav li{
+    display:inline;
+    list-style-type:none;
+    padding-right: 40px;
 }
 
 section{
-    background-color: blue;
+    background-color: maroon;
+    width: 450px;
+    height: 400px;
+    padding: 10px;
+    margin: 5px 5px 5px 5px;
+    float: left;
 }
 
-passage{
-    background-color: green;
+aside{
+    background-color: maroon;
+    width: 450px;
+    height: 400px;
+    padding: 10px;
+    margin: 5px 5px 5px 5px;
+    float: right;
 }
 
 footer{
-    background-color: yellow;
+    background-color: maroon;
+    clear:both;
+}
+
+h6 {
+    font-family:georgia;  
 }
