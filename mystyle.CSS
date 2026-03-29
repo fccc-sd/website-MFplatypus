@@ -1,0 +1,92 @@
+h1{
+    color:black;
+    background-color: gainsboro;
+    text-align: left;
+    line-height: 1.6em;
+    font-weight:bold;
+}
+
+h2,h3{
+     background-color:gainsboro;
+    text-align: center;
+}
+
+h4,h5{
+     background-color:gainsboro;
+}
+
+h6{
+    line-height: 1.3;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:georgia;  
+}
+
+p{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+p em{
+    color:whitesmoke;
+}
+
+em_all{
+    color:whitesmoke;
+
+    
+    a:link {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+    }
+
+    a:visited {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+    }
+}
+
+
+hreader_em{
+    
+    color: gainsboro;
+}
+
+hr{
+    color:gainsboro;
+    
+}
+
+ol{
+    font-weight:bold;
+    list-style-type: upper-roman; 
+    list-style-position:outside;
+}
+
+img{
+    vertical-align:middle; 
+}
+
+nav{
+    background-color:gainsboro; 
+    color:whitesmoke; 
+}
+
+nav li{
+    display:inline;
+    list-style-type:none;
+    padding-right:20px; 
+
+}
+
+body{
+    background-color:whitesmoke;
+}
